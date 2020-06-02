@@ -1,1 +1,1 @@
-# Stock_Market_Forecasting_using_DL
+# Stock Market Forecasting using a Deep Learning Algorithm

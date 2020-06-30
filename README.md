@@ -4,7 +4,7 @@
 
 EUR/USD forecasting using a dilated Convolutionnal Neural Network (CNN) model.
 
-The CNN model contents five internal convolutionnal layern with an increasing dilation rate.
+The CNN model contents five internal convolutionnal layers with an increasing dilation rate.
 
 ### Results
 

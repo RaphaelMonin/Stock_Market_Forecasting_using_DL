@@ -8,7 +8,7 @@ The CNN model contents five internal convolutionnal layers with an increasing di
 
 ### Results
 
-The model reach a mean absolute percentage error of only 0.36% on the test set.
+The model reach a mean absolute percentage error of only 0.35% on the test set.
 
 ### Dependencies
 

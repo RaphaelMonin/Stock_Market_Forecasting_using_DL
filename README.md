@@ -2,13 +2,13 @@
 
 ### Overview
 
-EUR/USD forecasting using a dilated Convolutionnal Neural Network (CNN) model.
+EUR/USD forecasting using a dilated Convolutional Neural Network (CNN) model.
 
-The CNN model contents five internal convolutionnal layers with an increasing dilation rate.
+The CNN model contents five internal convolutional layers with an increasing dilation rate.
 
 ### Results
 
-The model reach a mean absolute percentage error of only 0.35% on the test set.
+The model reaches a mean absolute percentage error of only 0.35% on the test set.
 
 ### Dependencies
 
